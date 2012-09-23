@@ -1,1 +1,15 @@
 c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\JoyStick Input Capture.exe.config
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\JoyStick Input Capture.exe.manifest
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\JoyStick Input Capture.application
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\JoyStick Input Capture.exe
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\JoyStick Input Capture.pdb
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\AForge.Controls.dll
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\AForge.Controls.xml
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick Input Capture.csprojResolveAssemblyReference.cache
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick_Input_Capture.MainScreen.resources
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick_Input_Capture.Properties.Resources.resources
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick Input Capture.csproj.GenerateResource.Cache
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick Input Capture.exe.manifest
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick Input Capture.application
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick Input Capture.exe
+C:\Users\Mom\Documents\Visual Studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Release\JoyStick Input Capture.pdb
