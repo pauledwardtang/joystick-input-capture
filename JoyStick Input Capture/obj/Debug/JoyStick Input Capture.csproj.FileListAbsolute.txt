@@ -1,0 +1,11 @@
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Debug\JoyStick Input Capture.exe.config
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Debug\JoyStick Input Capture.exe
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Debug\JoyStick Input Capture.pdb
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Debug\JoyStick_Input_Capture.MainScreen.resources
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Debug\JoyStick_Input_Capture.Properties.Resources.resources
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Debug\JoyStick Input Capture.csproj.GenerateResource.Cache
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Debug\JoyStick Input Capture.exe
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Debug\JoyStick Input Capture.pdb
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Debug\AForge.Controls.dll
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Debug\AForge.Controls.xml
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\obj\Debug\JoyStick Input Capture.csprojResolveAssemblyReference.cache

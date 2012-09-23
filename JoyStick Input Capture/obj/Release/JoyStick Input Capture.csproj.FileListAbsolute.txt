@@ -1,0 +1,1 @@
+c:\users\mom\documents\visual studio 2012\Projects\JoyStick Input Capture\JoyStick Input Capture\bin\Release\JoyStick Input Capture.exe.config
